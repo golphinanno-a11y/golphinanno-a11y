@@ -4,22 +4,34 @@
        alt="Golphin Anno - Cybersecurity and Software Development"/>
 </p>
 
+
 <div align="center">
 
-# 💻 Aspiring Software Developer
+<h1 align="center">💻 Aspiring Software Developer</h1>
 
-### <span>🔐 Cybersecurity Enthusiast</span>
+<h3 align="center">🔐 Cybersecurity Enthusiast</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Learning+%7C+Building+%7C+Growing;Exploring+Software+Development;Discovering+Cybersecurity;Turning+Ideas+Into+Projects" alt="Typing animation"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Learning+%7C+Building+%7C+Growing;Exploring+Software+Development;Discovering+Cybersecurity;Turning+Ideas+Into+Projects" alt="Typing animation"/>
+</p>
 
-<img src="https://img.shields.io/badge/FOCUS-Software%20%26%20Security-071B35?style=for-the-badge&logo=target&logoColor=00BFFF" alt="Software and security focus"/>
-<img src="https://img.shields.io/badge/LEVEL-Beginner-173B67?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Beginner level"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-Software%20%26%20Security-071B35?style=for-the-badge&logo=target&logoColor=00BFFF" alt="Software and security focus"/>
+  <img src="https://img.shields.io/badge/LEVEL-Beginner-173B67?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Beginner level"/>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-071B35?style=for-the-badge&logo=github&logoColor=00BFFF)](https://github.com/golphinanno-a11y)
+<p align="center">
+  <a href="https://github.com/golphinanno-a11y">
+    <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-071B35?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Visit my GitHub profile"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071B35,100:00BFFF&height=3&section=header" width="75%" alt="Neon blue divider"/>
+</p>
 
 </div>
 
----
 
 ## 🌟 About Me
 
