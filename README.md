@@ -1,20 +1,21 @@
+
 <p align="center">
-  <img
-    src="assets/banner.png"
-    width="100%"
-    alt="Golphin Anno - Software Development and Cybersecurity"
-  />
+  <img src="assets/banner.png" width="100%"
+       alt="Golphin Anno - Cybersecurity and Software Development"/>
 </p>
- <div align="center">
 
-### Aspiring Software Developer 💻 | Cybersecurity Enthusiast 🔐
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Learning+%7C+Building+%7C+Growing;Exploring+Software+Development;Discovering+Cybersecurity;Turning+Ideas+Into+Projects" alt="Typing animation"/>
+# 💻 Aspiring Software Developer
 
-<img src="https://img.shields.io/badge/Focus-Software%20%26%20Security-1F6FEB?style=for-the-badge" alt="Software and security focus"/>
-<img src="https://img.shields.io/badge/Level-Beginner-173B67?style=for-the-badge" alt="Beginner level"/>
+### <span>🔐 Cybersecurity Enthusiast</span>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/golphinanno-a11y)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Learning+%7C+Building+%7C+Growing;Exploring+Software+Development;Discovering+Cybersecurity;Turning+Ideas+Into+Projects" alt="Typing animation"/>
+
+<img src="https://img.shields.io/badge/FOCUS-Software%20%26%20Security-071B35?style=for-the-badge&logo=target&logoColor=00BFFF" alt="Software and security focus"/>
+<img src="https://img.shields.io/badge/LEVEL-Beginner-173B67?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Beginner level"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-071B35?style=for-the-badge&logo=github&logoColor=00BFFF)](https://github.com/golphinanno-a11y)
 
 </div>
 
@@ -33,13 +34,13 @@
 ### Languages & Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js" alt="Java, Python, HTML, CSS, JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js&theme=dark" alt="Java, Python, HTML, CSS, JavaScript"/>
 </p>
 
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,mongodb" alt="Git, GitHub, VS Code, Node.js, MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,mongodb&theme=dark" alt="Git, GitHub, VS Code, Node.js, MongoDB"/>
 </p>
 
 ## 🚀 Featured Projects
@@ -50,36 +51,36 @@
       <div align="center">
         <img src="assets/space2plate.png" width="100%" alt="Space2Plate project thumbnail"/>
         <h3>🌱 Space2Plate</h3>
-        <p><b>AI-Assisted Space Farming</b></p>
+        <b>AI-Assisted Space Farming</b>
       </div>
-      Monitors space-grown plants, supports seed protection, identifies plant health issues, and helps plan food nutrition.
-      <p><b>Focus:</b> AI concepts · Image Analysis · Plant Health</p>
+      <p>Explores plant health analysis, space farming, and nutrition planning.</p>
+      <p><b>Focus:</b> AI Concepts · Image Analysis · Plant Health</p>
       <div align="center">
-        <a href="https://github.com/golphinanno-a11y/Space2Plate.git">View Repository</a>
+        <a href="https://github.com/golphinanno-a11y/Space2Plate">View Repository →</a>
       </div>
     </td>
     <td width="33%" valign="top">
       <div align="center">
-        <img src="assets/itzfizz.png" width="100%" alt="QueueShield project thumbnail"/>
-        <h3>🛡️ Itz Fizz</h3>
-        <p><b>Fair Academic Form Access</b></p>
+        <img src="assets/itzfizz.png" width="100%" alt="ITZ FIZZ project thumbnail"/>
+        <h3>🥤 ITZ FIZZ</h3>
+        <b>Animated Product Landing Page</b>
       </div>
-        ItzFizz is a creative web platform featuring smooth animations, interactive effects, modern         designs, and innovative digital experiences.
-      <p><b>Focus:</b> Animations · Interactivity · Responsive Design</p>
+      <p>A beverage landing page featuring smooth scroll animations and interactive visual effects.</p>
+      <p><b>Focus:</b> HTML · CSS · JavaScript · GSAP</p>
       <div align="center">
-        <a href="https://github.com/golphinanno-a11y/ITZ-FIZZ-.git">View Repository</a>
+        <a href="https://github.com/golphinanno-a11y/ITZ-FIZZ-">View Repository →</a>
       </div>
     </td>
     <td width="33%" valign="top">
       <div align="center">
         <img src="assets/Voxtech.png" width="100%" alt="VoxTech project thumbnail"/>
         <h3>🎙️ VoxTech</h3>
-        <p><b>Voice-Based Technology</b></p>
+        <b>AI-Powered Speech Therapy</b>
       </div>
-      VOXTECH is an AI-powered speech therapy platform offering pronunciation practice,                   personalized feedback, multilingual support, progress tracking, and online therapist                                                  consultations.
-      <p><b>Focus:</b>React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Web Speech API, AI/NLP,        WebRTC, JWT.</p>
+      <p>A platform concept for pronunciation practice, personalized feedback, and multilingual speech support.</p>
+      <p><b>Focus:</b> React · Node.js · MongoDB · AI/NLP</p>
       <div align="center">
-        <a href="https://github.com/golphinanno-a11y/VOXTECH.git">View Repository</a>
+        <a href="https://github.com/golphinanno-a11y/VOXTECH">View Repository →</a>
       </div>
     </td>
   </tr>
@@ -103,24 +104,24 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=golphinanno-a11y&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=golphinanno-a11y&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=golphinanno-a11y&show_icons=true&hide_border=true&bg_color=071B35&title_color=00BFFF&icon_color=00BFFF&text_color=C9D1D9" width="100%" alt="GitHub statistics"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=golphinanno-a11y&hide_border=true&background=071B35&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=C9D1D9&dates=8B949E" width="100%" alt="GitHub contribution streak"/>
+
 </div>
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-golphinanno--a11y-181717?style=for-the-badge&logo=github)](https://github.com/golphinanno-a11y)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/golphin-anno-s-a2583938b)
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Connect-071B35?style=for-the-badge&logo=github&logoColor=00BFFF)](https://github.com/golphinanno-a11y)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-071B35?style=for-the-badge&logo=linkedin&logoColor=00BFFF)](https://www.linkedin.com/in/golphin-anno-s-a2583938b/)
 
-<div align="center">
-
-### 💙 "Learn something new. Build something useful. Improve every day."
+### 💙 Learn Something New. Build Something Useful. Improve Every Day.
 
 ⭐ Thanks for visiting my profile!
 
