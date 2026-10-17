@@ -55,48 +55,26 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,mongodb&theme=dark" alt="Git, GitHub, VS Code, Node.js, MongoDB"/>
 </p>
 
+
 ## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <div align="center">
-        <img src="assets/space2plate.png" width="100%" alt="Space2Plate project thumbnail"/>
-        <h3>🌱 Space2Plate</h3>
-        <b>AI-Assisted Space Farming</b>
-      </div>
-      <p>Explores plant health analysis, space farming, and nutrition planning.</p>
-      <p><b>Focus:</b> AI Concepts · Image Analysis · Plant Health</p>
-      <div align="center">
-        <a href="https://github.com/golphinanno-a11y/Space2Plate">View Repository →</a>
-      </div>
+    <td width="33%" align="center" valign="top">
+      <img src="assets/space2plate.png" width="100%" alt="Space2Plate project thumbnail"/>
+      <h3>🌱 Space2Plate</h3>
     </td>
-    <td width="33%" valign="top">
-      <div align="center">
-        <img src="assets/itzfizz.png" width="100%" alt="ITZ FIZZ project thumbnail"/>
-        <h3>🥤 ITZ FIZZ</h3>
-        <b>Animated Product Landing Page</b>
-      </div>
-      <p>A beverage landing page featuring smooth scroll animations and interactive visual effects.</p>
-      <p><b>Focus:</b> HTML · CSS · JavaScript · GSAP</p>
-      <div align="center">
-        <a href="https://github.com/golphinanno-a11y/ITZ-FIZZ-">View Repository →</a>
-      </div>
+    <td width="33%" align="center" valign="top">
+      <img src="assets/itzfizz.png" width="100%" alt="ITZ FIZZ project thumbnail"/>
+      <h3>🥤 ITZ FIZZ</h3>
     </td>
-    <td width="33%" valign="top">
-      <div align="center">
-        <img src="assets/Voxtech.png" width="100%" alt="VoxTech project thumbnail"/>
-        <h3>🎙️ VoxTech</h3>
-        <b>AI-Powered Speech Therapy</b>
-      </div>
-      <p>A platform concept for pronunciation practice, personalized feedback, and multilingual speech support.</p>
-      <p><b>Focus:</b> React · Node.js · MongoDB · AI/NLP</p>
-      <div align="center">
-        <a href="https://github.com/golphinanno-a11y/VOXTECH">View Repository →</a>
-      </div>
+    <td width="33%" align="center" valign="top">
+      <img src="assets/Voxtech.png" width="100%" alt="VoxTech project thumbnail"/>
+      <h3>🎙️ VoxTech</h3>
     </td>
   </tr>
 </table>
+
 
 ## 🔐 Cybersecurity & Learning
 
