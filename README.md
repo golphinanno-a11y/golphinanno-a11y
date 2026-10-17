@@ -159,24 +159,18 @@
 
 <p><i>Learning, building, and improving every day.</i></p>
 
+<p><i>Every commit is progress. Every project is growth.</i></p>
+
 <a href="https://github.com/golphinanno-a11y">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=golphinanno-a11y&theme=github-compact"
-    width="100%"
-    alt="GitHub Contribution Journey"
-  />
+  <img src="https://img.shields.io/badge/VIEW%20MY%20CONTRIBUTIONS-071B35?style=for-the-badge&logo=github&logoColor=00BFFF&labelColor=071B35" alt="View my GitHub contributions"/>
 </a>
 
-<p>
-  <a href="https://github.com/golphinanno-a11y">
-    <img src="https://img.shields.io/badge/VIEW%20GITHUB%20PROFILE-071B35?style=for-the-badge&logo=github&logoColor=00BFFF" alt="View GitHub profile"/>
-  </a>
-</p>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071B35,50:005B96,100:00BFFF&height=3" width="75%" alt="Neon blue divider"/>
 
 </div>
 
-
-<br/><br/>
 
 <!-- LEARNING GOALS -->
 
