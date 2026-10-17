@@ -116,38 +116,70 @@
 ## 📊 GitHub Activity
 
 
+
+<!-- ═══════════ GITHUB ACTIVITY ═══════════ -->
+
 <div align="center">
 
-# ⚡ GITHUB ACTIVITY
+<img src="https://img.shields.io/badge/◈_SYSTEM-GITHUB%20ACTIVITY-071B35?style=for-the-badge&labelColor=071B35&color=00BFFF" alt="GitHub Activity"/>
 
-<img src="https://img.shields.io/badge/STATUS-Active%20Developer-071B35?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Active developer"/>
-<img src="https://img.shields.io/badge/FOCUS-Consistency-071B35?style=for-the-badge&logo=activitypub&logoColor=00BFFF" alt="Consistency"/>
+<h2>⚡ GITHUB ACTIVITY DASHBOARD</h2>
 
-<br/><br/>
+<p>
+  <i>Tracking my journey — one commit at a time.</i>
+</p>
 
-### 📊 GitHub Statistics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=golphinanno-a11y&show_icons=true&hide_border=true&bg_color=071B35&title_color=00BFFF&icon_color=00BFFF&text_color=C9D1D9&ring_color=00BFFF" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golphinanno-a11y&layout=compact&hide_border=true&bg_color=071B35&title_color=00BFFF&text_color=C9D1D9" alt="Most used programming languages"/>
-
-<br/><br/>
-
-### 🔥 Contribution Streak
-
-<img width="70%" src="https://streak-stats.demolab.com?user=golphinanno-a11y&theme=dark&hide_border=true&background=071B35&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8AA4C8" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-### 🟦 Contribution Graph
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=golphinanno-a11y&bg_color=071B35&color=C9D1D9&line=00BFFF&point=FFFFFF&area=true&area_color=005B96&hide_border=true" alt="GitHub contribution activity graph"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Analyzing+Code...;Building+Projects...;Learning+Cybersecurity...;Improving+Every+Day..." alt="Activity animation"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/LEARN- BUILD-071B35?style=flat-square&logo=github&logoColor=00BFFF" alt="Learn and build"/>
-<img src="https://img.shields.io/badge/KEEP- CONTRIBUTING-071B35?style=flat-square&logo=github&logoColor=00BFFF" alt="Keep contributing"/>
+<!-- STATS AND LANGUAGES -->
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=golphinanno-a11y&show_icons=true&hide_border=true&bg_color=071B35&title_color=00BFFF&icon_color=00BFFF&text_color=C9D1D9&ring_color=00BFFF&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golphinanno-a11y&layout=donut-vertical&langs_count=5&hide_border=true&bg_color=071B35&title_color=00BFFF&text_color=C9D1D9" alt="Top Programming Languages"/>
+
+<br/><br/>
+
+<!-- CONTRIBUTION STREAK -->
+
+<img src="https://img.shields.io/badge/🔥_CONTRIBUTION_STREAK-KEEP%20BUILDING-071B35?style=for-the-badge&labelColor=071B35&color=005B96" alt="Contribution streak heading"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=golphinanno-a11y&hide_border=true&background=071B35&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8AA4C8" alt="GitHub streak statistics"/>
+
+<br/><br/>
+
+<!-- ACTIVITY GRAPH -->
+
+<img src="https://img.shields.io/badge/◉_LIVE%20CODING%20TIMELINE-CONTRIBUTION%20GRAPH-071B35?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Contribution graph heading"/>
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=golphinanno-a11y&bg_color=071B35&color=C9D1D9&line=00BFFF&point=FFFFFF&area=true&area_color=005B96&hide_border=true&custom_title=My%20Contribution%20Journey" alt="GitHub contribution graph"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LEARN-01-071B35?style=flat-square&logo=bookstack&logoColor=00BFFF" alt="Learn"/>
+<img src="https://img.shields.io/badge/BUILD-02-071B35?style=flat-square&logo=visualstudiocode&logoColor=00BFFF" alt="Build"/>
+<img src="https://img.shields.io/badge/SECURE-03-071B35?style=flat-square&logo=hackthebox&logoColor=00BFFF" alt="Secure"/>
+<img src="https://img.shields.io/badge/GROW-04-071B35?style=flat-square&logo=github&logoColor=00BFFF" alt="Grow"/>
+
+<br/><br/>
+
+<a href="https://github.com/golphinanno-a11y">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-00BFFF?style=for-the-badge&logo=github&logoColor=071B35" alt="Explore my repositories"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071B35,50:005B96,100:00BFFF&height=3&section=footer" width="85%" alt="Neon blue divider"/>
+
+<sub>◈ LEARN CONSTANTLY &nbsp; • &nbsp; BUILD MEANINGFULLY &nbsp; • &nbsp; GROW CONSISTENTLY ◈</sub>
 
 </div>
+
 
 
 ## 🤝 Let's Connect
