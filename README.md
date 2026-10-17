@@ -155,19 +155,9 @@
 
 <div align="center">
 
-<h2>📈 CONTRIBUTION JOURNEY</h2>
-
 <p><i>Learning, building, and improving every day.</i></p>
 
 <p><i>Every commit is progress. Every project is growth.</i></p>
-
-<a href="https://github.com/golphinanno-a11y#contributions-calendar">
-  <img src="https://img.shields.io/badge/VIEW%20MY%20CONTRIBUTIONS-071B35?style=for-the-badge&logo=github&logoColor=00BFFF&labelColor=071B35" alt="View my GitHub contributions"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071B35,50:005B96,100:00BFFF&height=3" width="75%" alt="Neon blue divider"/>
 
 </div>
 
@@ -193,6 +183,151 @@
 
 </div>
 
+
+<!-- ═══════════ FEATURED PROJECTS ═══════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/◈_PROJECT_LAB-FEATURED%20PROJECTS-071B35?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Featured Projects"/>
+
+<h2>🚀 PROJECTS THAT TURN IDEAS INTO REALITY</h2>
+
+<p>
+  <i>Building intelligent solutions, crafting engaging experiences, and exploring new technologies.</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071B35,50:005B96,100:00BFFF&height=3" width="85%" alt="Neon blue divider"/>
+
+</div>
+
+<!-- PROJECT 1: SPACE2PLATE -->
+
+<table>
+<tr>
+<td width="35%" align="center" valign="middle">
+
+<img src="assets/space2plate.png" width="100%" alt="Space2Plate project preview"/>
+
+</td>
+<td width="65%" valign="middle">
+
+<h3>🪴 Space2Plate</h3>
+
+<b>AI Plant Health & Space Food System</b>
+
+An AI-powered concept designed to support plant health monitoring and food management in space environments.
+
+**Key Features**
+- 🌱 Plant health and disease identification concept
+- 🥗 Food nutrition and shelf-life information
+- 🤖 AI-assisted resource optimization
+
+**Technology Stack**
+
+<img src="https://img.shields.io/badge/Python-071B35?style=flat-square&logo=python&logoColor=00BFFF" alt="Python"/>
+<img src="https://img.shields.io/badge/OpenCV-071B35?style=flat-square&logo=opencv&logoColor=00BFFF" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Streamlit-071B35?style=flat-square&logo=streamlit&logoColor=00BFFF" alt="Streamlit"/>
+
+<a href="https://github.com/golphinanno-a11y/Space2Plate.git">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00BFFF?style=for-the-badge&logo=github&logoColor=071B35" alt="Explore Space2Plate repository"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071B35,100:00BFFF&height=2" width="75%" alt="Blue separator"/>
+</div>
+
+<!-- PROJECT 2: ITZ FIZZ -->
+
+<table>
+<tr>
+<td width="35%" align="center" valign="middle">
+
+<img src="assets/itzfizz.png" width="100%" alt="ITZ FIZZ landing page preview"/>
+
+</td>
+<td width="65%" valign="middle">
+
+<h3>🥤 ITZ FIZZ</h3>
+
+<b>Scroll-Driven Product Landing Page</b>
+
+A visually engaging beverage landing page featuring smooth animations and an interactive product presentation.
+
+**Key Features**
+- ✨ Animated hero section and headline
+- 🎯 Scroll-controlled product movement
+- 📱 Responsive design for different screens
+
+**Technology Stack**
+
+<img src="https://img.shields.io/badge/HTML5-071B35?style=flat-square&logo=html5&logoColor=00BFFF" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-071B35?style=flat-square&logo=css3&logoColor=00BFFF" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-071B35?style=flat-square&logo=javascript&logoColor=00BFFF" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/GSAP-071B35?style=flat-square&logo=greensock&logoColor=00BFFF" alt="GSAP"/>
+
+<a href="https://github.com/golphinanno-a11y/ITZ-FIZZ-.git">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00BFFF?style=for-the-badge&logo=github&logoColor=071B35" alt="Explore ITZ FIZZ repository"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071B35,100:00BFFF&height=2" width="75%" alt="Blue separator"/>
+</div>
+
+<!-- PROJECT 3: VOXTECH -->
+
+<table>
+<tr>
+<td width="35%" align="center" valign="middle">
+
+<img src="assets/Voxtech.png" width="100%" alt="VoxTech project preview"/>
+
+</td>
+<td width="65%" valign="middle">
+
+<h3>🎙️ VoxTech</h3>
+
+<b>Technology Project</b>
+
+A featured project from my development portfolio. Explore the repository to discover its implementation, features, and technical approach.
+
+**Project Highlights**
+- 💡 Problem-solving through technology
+- 🛠️ Hands-on development experience
+- 🚀 Continuous experimentation and improvement
+
+**Technology Stack**
+
+<img src="https://img.shields.io/badge/TECHNOLOGY-Explore%20Repository-071B35?style=flat-square&logo=github&logoColor=00BFFF" alt="Explore VoxTech technologies"/>
+
+<a href="https://github.com/golphinanno-a11y/VOXTECH.git">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00BFFF?style=for-the-badge&logo=github&logoColor=071B35" alt="Explore VoxTech repository"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/BUILD-IDEAS-071B35?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Build ideas"/>
+<img src="https://img.shields.io/badge/WRITE-CODE-071B35?style=for-the-badge&logo=visualstudiocode&logoColor=00BFFF" alt="Write code"/>
+<img src="https://img.shields.io/badge/CREATE-IMPACT-071B35?style=for-the-badge&logo=rocket&logoColor=00BFFF" alt="Create impact"/>
+
+<p><b>⚡ LEARN CONTINUOUSLY • BUILD MEANINGFULLY • GROW CONSISTENTLY</b></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071B35,50:005B96,100:00BFFF&height=3" width="85%" alt="Neon blue footer divider"/>
+
+</div>
 
 
 
