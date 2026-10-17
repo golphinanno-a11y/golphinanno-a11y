@@ -67,7 +67,7 @@
     </td>
     <td width="33%" valign="top">
       <div align="center">
-        <img src="assets/voxtech.png" width="100%" alt="VoxTech project thumbnail"/>
+        <img src="assets/Voxtech.png" width="100%" alt="VoxTech project thumbnail"/>
         <h3>🎙️ VoxTech</h3>
         <p><b>Voice-Based Technology</b></p>
       </div>
