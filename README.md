@@ -161,7 +161,7 @@
 
 <p><i>Every commit is progress. Every project is growth.</i></p>
 
-<a href="https://github.com/golphinanno-a11y">
+<a href="https://github.com/golphinanno-a11y#contributions-calendar">
   <img src="https://img.shields.io/badge/VIEW%20MY%20CONTRIBUTIONS-071B35?style=for-the-badge&logo=github&logoColor=00BFFF&labelColor=071B35" alt="View my GitHub contributions"/>
 </a>
 
