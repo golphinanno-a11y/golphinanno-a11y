@@ -133,15 +133,6 @@
 <img src="https://img.shields.io/badge/BUILD-02-071B35?style=for-the-badge&logo=visualstudiocode&logoColor=00BFFF" alt="Build"/>
 <img src="https://img.shields.io/badge/SECURE-03-071B35?style=for-the-badge&logo=hackthebox&logoColor=00BFFF" alt="Secure"/>
 <img src="https://img.shields.io/badge/GROW-04-071B35?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Grow"/>
-
-<br/><br/>
-
-<a href="https://github.com/golphinanno-a11y">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-071B35?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Explore my repositories"/>
-</a>
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071B35,50:005B96,100:00BFFF&height=3&section=footer" width="85%" alt="Neon blue divider"/>
 
 <p><sub>◈ LEARN CONSTANTLY • BUILD MEANINGFULLY • GROW CONSISTENTLY ◈</sub></p>
