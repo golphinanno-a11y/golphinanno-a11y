@@ -76,8 +76,8 @@
         <h3>🎙️ VoxTech</h3>
         <p><b>Voice-Based Technology</b></p>
       </div>
-      VOXTECH is an AI-powered speech therapy platform that helps users improve their pronunciation, fluency, and communication skills through interactive exercises, personalized feedback, multilingual support, progress tracking, and online therapist consultations.
-      <p><b>Focus:</b> React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Web Speech API, AI/NLP, WebRTC, and JWT for secure, interactive, and accessible AI-powered speech therapy.</p>
+      VOXTECH is an AI-powered speech therapy platform offering pronunciation practice,                   personalized feedback, multilingual support, progress tracking, and online therapist                                                  consultations.
+      <p><b>Focus:</b>React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Web Speech API, AI/NLP,        WebRTC, JWT.</p>
       <div align="center">
         <a href="https://github.com/golphinanno-a11y/VOXTECH.git">View Repository</a>
       </div>
