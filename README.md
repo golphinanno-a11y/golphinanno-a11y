@@ -151,21 +151,29 @@
 
 <!-- CONTRIBUTION GRAPH -->
 
-<h3 align="center">📈 CONTRIBUTION JOURNEY</h3>
+<!-- CONTRIBUTION JOURNEY -->
 
-<p align="center">
-  <i>Every commit moves me forward.</i>
-</p>
+<div align="center">
 
-<p align="center">
+<h2>📈 CONTRIBUTION JOURNEY</h2>
+
+<p><i>Learning, building, and improving every day.</i></p>
+
+<a href="https://github.com/golphinanno-a11y">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=golphinanno-a11y&theme=github-compact"
+    width="100%"
+    alt="GitHub Contribution Journey"
+  />
+</a>
+
+<p>
   <a href="https://github.com/golphinanno-a11y">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=golphinanno-a11y&bg_color=071B35&color=C9D1D9&line=00BFFF&point=FFFFFF&area=true&hide_border=true"
-      width="98%"
-      alt="GitHub Contribution Journey"
-    />
+    <img src="https://img.shields.io/badge/VIEW%20GITHUB%20PROFILE-071B35?style=for-the-badge&logo=github&logoColor=00BFFF" alt="View GitHub profile"/>
   </a>
 </p>
+
+</div>
 
 
 <br/><br/>
