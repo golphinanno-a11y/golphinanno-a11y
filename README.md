@@ -1,6 +1,11 @@
+<p align="center">
+  <img
+    src="assets/banner.png"
+    width="100%"
+    alt="Golphin Anno - Software Development and Cybersecurity"
+  />
+</p>
  <div align="center">
-
-# 👋 Hey there, I'm Golphin Anno!
 
 ### Aspiring Software Developer 💻 | Cybersecurity Enthusiast 🔐
 
