@@ -126,17 +126,6 @@
 <img width="75%" src="https://streak-stats.demolab.com?user=golphinanno-a11y&hide_border=true&background=071B35&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8AA4C8" alt="GitHub contribution streak"/>
 
 <br/><br/>
-
-<!-- LEARNING GOALS -->
-
-<img src="https://img.shields.io/badge/LEARN-01-071B35?style=for-the-badge&logo=bookstack&logoColor=00BFFF" alt="Learn"/>
-<img src="https://img.shields.io/badge/BUILD-02-071B35?style=for-the-badge&logo=visualstudiocode&logoColor=00BFFF" alt="Build"/>
-<img src="https://img.shields.io/badge/SECURE-03-071B35?style=for-the-badge&logo=hackthebox&logoColor=00BFFF" alt="Secure"/>
-<img src="https://img.shields.io/badge/GROW-04-071B35?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Grow"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071B35,50:005B96,100:00BFFF&height=3&section=footer" width="85%" alt="Neon blue divider"/>
-
-<p><sub>◈ LEARN CONSTANTLY • BUILD MEANINGFULLY • GROW CONSISTENTLY ◈</sub></p>
-
 </div>
 
 
