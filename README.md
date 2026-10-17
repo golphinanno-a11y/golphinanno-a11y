@@ -127,19 +127,6 @@
 
 <br/><br/>
 
-<!-- CONTRIBUTION GRAPH -->
-
-<!-- CONTRIBUTION JOURNEY -->
-
-<div align="center">
-
-<p><i>Learning, building, and improving every day.</i></p>
-
-<p><i>Every commit is progress. Every project is growth.</i></p>
-
-</div>
-
-
 <!-- LEARNING GOALS -->
 
 <img src="https://img.shields.io/badge/LEARN-01-071B35?style=for-the-badge&logo=bookstack&logoColor=00BFFF" alt="Learn"/>
