@@ -151,9 +151,22 @@
 
 <!-- CONTRIBUTION GRAPH -->
 
-<h3>📈 CONTRIBUTION JOURNEY</h3>
+<h3 align="center">📈 CONTRIBUTION JOURNEY</h3>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=golphinanno-a11y&bg_color=071B35&color=C9D1D9&line=00BFFF&point=FFFFFF&area=true&area_color=005B96&hide_border=true&custom_title=My%20Contribution%20Journey" alt="GitHub contribution activity graph"/>
+<p align="center">
+  <i>Every commit moves me forward.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/golphinanno-a11y">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=golphinanno-a11y&bg_color=071B35&color=C9D1D9&line=00BFFF&point=FFFFFF&area=true&hide_border=true"
+      width="98%"
+      alt="GitHub Contribution Journey"
+    />
+  </a>
+</p>
+
 
 <br/><br/>
 
