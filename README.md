@@ -55,7 +55,7 @@
     </td>
     <td width="33%" valign="top">
       <div align="center">
-        <img src="assets/itz fizz.png" width="100%" alt="QueueShield project thumbnail"/>
+        <img src="assets/itzfizz.png" width="100%" alt="QueueShield project thumbnail"/>
         <h3>🛡️ Itz Fizz</h3>
         <p><b>Fair Academic Form Access</b></p>
       </div>
