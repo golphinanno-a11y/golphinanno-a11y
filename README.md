@@ -115,15 +115,40 @@
 
 ## 📊 GitHub Activity
 
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=golphinanno-a11y&show_icons=true&hide_border=true&bg_color=071B35&title_color=00BFFF&icon_color=00BFFF&text_color=C9D1D9" width="100%" alt="GitHub statistics"/>
+# ⚡ GITHUB ACTIVITY
+
+<img src="https://img.shields.io/badge/STATUS-Active%20Developer-071B35?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Active developer"/>
+<img src="https://img.shields.io/badge/FOCUS-Consistency-071B35?style=for-the-badge&logo=activitypub&logoColor=00BFFF" alt="Consistency"/>
+
+<br/><br/>
+
+### 📊 GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=golphinanno-a11y&show_icons=true&hide_border=true&bg_color=071B35&title_color=00BFFF&icon_color=00BFFF&text_color=C9D1D9&ring_color=00BFFF" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golphinanno-a11y&layout=compact&hide_border=true&bg_color=071B35&title_color=00BFFF&text_color=C9D1D9" alt="Most used programming languages"/>
+
+<br/><br/>
+
+### 🔥 Contribution Streak
+
+<img width="70%" src="https://streak-stats.demolab.com?user=golphinanno-a11y&theme=dark&hide_border=true&background=071B35&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8AA4C8" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+### 🟦 Contribution Graph
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=golphinanno-a11y&bg_color=071B35&color=C9D1D9&line=00BFFF&point=FFFFFF&area=true&area_color=005B96&hide_border=true" alt="GitHub contribution activity graph"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=golphinanno-a11y&hide_border=true&background=071B35&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=C9D1D9&dates=8B949E" width="100%" alt="GitHub contribution streak"/>
+<img src="https://img.shields.io/badge/LEARN- BUILD-071B35?style=flat-square&logo=github&logoColor=00BFFF" alt="Learn and build"/>
+<img src="https://img.shields.io/badge/KEEP- CONTRIBUTING-071B35?style=flat-square&logo=github&logoColor=00BFFF" alt="Keep contributing"/>
 
 </div>
+
 
 ## 🤝 Let's Connect
 
